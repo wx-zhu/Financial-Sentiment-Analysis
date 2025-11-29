@@ -1,9 +1,5 @@
 # PSO-Optimized DistilBERT for Financial Sentiment Analysis
 
-**STATS 507 Final Project - Fall 2024**  
-**Author:** Wenxuan Zhu  
-**University of Michigan, Department of Biostatistics**
-
 ## Overview
 
 This project investigates the application of Particle Swarm Optimization (PSO) for hyperparameter tuning of DistilBERT in financial sentiment classification. We systematically compare baseline DistilBERT performance against PSO-optimized configurations using the Financial PhraseBank dataset.
